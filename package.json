@@ -1,14 +1,16 @@
 {
-  "name": "json-formatter",
-  "displayName": "JSON Formatter",
+  "name": "ya-json-formatter",
+  "displayName": "Yet Anthoer JSON Formatter",
   "description": "Format JSON with minify and beautify commands",
   "version": "0.1.0",
+  "publisher": "XiaBin",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Formatters"
   ],
+  "icon": "images/icon.jpg",
   "activationEvents": [
     "onLanguage:json",
     "onLanguage:jsonc"
@@ -65,9 +67,8 @@
     "beautify"
   ],
   "author": {
-    "name": "Xia Bin"
+    "name": "XiaBin"
   },
-  "publisher": "XiaBin",
   "license": "MIT",
   "repository": {
     "type": "git",
