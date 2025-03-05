@@ -1,8 +1,8 @@
 {
-  "name": "ya-json-formatter",
-  "displayName": "Yet Anthoer JSON Formatter",
+  "name": "json-formatter-yao",
+  "displayName": "JSON Formatter(Yet Another One)",
   "description": "Format JSON with minify and beautify commands",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "XiaBin",
   "engines": {
     "vscode": "^1.60.0"
