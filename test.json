@@ -1,0 +1,19 @@
+{
+  "name": "JSON Formatter Test",
+  "version": "1.0.0",
+  "description": "A test file for the JSON Formatter extension",
+  "author": {
+    "name": "Test User",
+    "email": "test@example.com"
+  },
+  "dependencies": {
+    "package1": "^1.0.0",
+    "package2": "^2.0.0"
+  },
+  "keywords": [
+    "test",
+    "json",
+    "formatter"
+  ],
+  "license": "MIT"
+} 
