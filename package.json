@@ -64,10 +64,13 @@
     "minify",
     "beautify"
   ],
-  "author": "",
+  "author": {
+    "name": "Xia Bin"
+  },
+  "publisher": "XiaBin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/wuwen1030/json-formatter"
   }
 }
